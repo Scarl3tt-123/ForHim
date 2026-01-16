@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Press+Start+2P&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>Happy Anniversary</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="top-section" class="container"> 
+    <h1 class="h1">Happy Valentines!! </h1>
+
+    <div class="cake-container">
+        <img src="Images/Cake.gif" class="cake">
+    
+    </div>
+</body>
