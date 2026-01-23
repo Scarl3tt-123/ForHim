@@ -19,14 +19,16 @@ body {
 .heart {
     width: 320px;
     height: 320px;
-    display: block;
+    
     margin: 0 auto;
     image-rendering: pixelated;
 }
 
 .heart-container {
-    text-align: center;
+    
     background: lightblue;
+    display: flex;
+    justify-content: center;
 }
 
 
