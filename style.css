@@ -26,6 +26,7 @@ body {
 
 .heart-container {
     text-align: center;
+    background: lightblue;
 }
 
 
@@ -86,7 +87,6 @@ button:hover {
     p{ 
         font-size:26px;
         line-height:1.5 !important;
-        background: lightyellow;
-    }
+        }
 }
 
