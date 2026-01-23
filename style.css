@@ -23,6 +23,12 @@ body {
     margin: 20px auto;
     image-rendering: pixelated;
 }
+
+.heart-container {
+    text-align: center;
+}
+
+
 .h1 {
     font-family: 'Pacifico', cursive;
     color: #d81b60;
