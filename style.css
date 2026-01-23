@@ -85,7 +85,8 @@ button:hover {
 @media(max-width:600px) {
     p{ 
         font-size:26px;
-        line-height:1.5;
+        line-height:1.5 !important;
+        background: lightyellow;
     }
 }
 
