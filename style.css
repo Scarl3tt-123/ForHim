@@ -82,5 +82,10 @@ button:hover {
     width: 80%;
     border-radius: 10px;
 }
-
+@media(max-width:600px) {
+    p{ 
+        font-size:20px;
+        line-height:1.5;
+    }
+}
 
